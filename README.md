@@ -2,9 +2,9 @@
 Matrix Chain Multiplication Optimization Tool
 **2. Team Members**
 
-2520030141 - 
-2520030514 - 
-2520030587 - 
+2520030399 - K.Harini
+2520030564 - K.Kavyasri
+2520030591 - T.Sudeshna
 
 **3. Supervisor**
 
