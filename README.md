@@ -177,25 +177,21 @@ Space Complexity: O(n²)
 The Dynamic Programming approach stores previously calculated subproblem results and reuses them instead of calculating the same subproblems repeatedly.
 
 **7. Implementation Progress Against Planned Milestones**
-Milestone	Planned Work	Status
-1	Topic Selection	✅ Completed
-2	Problem Definition	✅ Completed
-3	Matrix Chain Multiplication Study	✅ Completed
-4	Dynamic Programming Study	✅ Completed
-5	System Design & Methodology	✅ Completed
-6	Pseudocode & Flowchart	✅ Completed
-7	Java Implementation	🔄 In Progress
-8	Test Case Implementation	🔄 In Progress
-9	Complexity Analysis	🔄 In Progress
-10	Documentation & README	🔄 In Progress
-11	GitHub Repository Organization	🔄 In Progress
-12	Final Demonstration	⏳ Planned
-13	Final Presentation	⏳ Planned
-Current Phase
-
-Implementation, Testing and Documentation
-
-Note: Update the milestone status according to the actual progress of the team before final submission.
+ | **Milestone** | **Planned Work**                  | **Status**         |
+| ------------- | --------------------------------- | ------------------ |
+| **1**         | Topic Selection                   | ✅ **Completed**    |
+| **2**         | Problem Definition                | ✅ **Completed**    |
+| **3**         | Matrix Chain Multiplication Study | ✅ **Completed**    |
+| **4**         | Dynamic Programming Study         | ✅ **Completed**    |
+| **5**         | System Design & Methodology       | ✅ **Completed**    |
+| **6**         | Pseudocode & Flowchart            | ✅ **Completed**    |
+| **7**         | Java Implementation               | 🔄 **In Progress** |
+| **8**         | Test Case Implementation          | 🔄 **In Progress** |
+| **9**         | Complexity Analysis               | 🔄 **In Progress** |
+| **10**        | Documentation & README            | 🔄 **In Progress** |
+| **11**        | GitHub Repository Organization    | 🔄 **In Progress** |
+| **12**        | Final Demonstration               | ⏳ **Planned**      |
+| **13**        | Final Presentation                | ⏳ **Planned**      |
 
 **8. Repository Discipline – Commit History, Structure & Documentation**
 
@@ -308,34 +304,6 @@ Split Table
 Optimal Split Positions
 
 Optimal Parenthesization
-
-This allows the user to understand how the final optimal solution is obtained.
- **Completed**
-✅ Problem Definition
-✅ Objectives
-✅ Matrix Chain Multiplication Study
-✅ Dynamic Programming Study
-✅ Design Methodology
-✅ System Architecture
-✅ Recurrence Relation
-✅ Pseudocode
-✅ Flowchart
-✅ Initial Java Implementation
-**In Progress**
-🔄 Complete Testing
-🔄 Performance Analysis
-🔄 DP Cost Table Verification
-🔄 Split Table Verification
-🔄 Optimal Parenthesization Verification
-🔄 README Documentation
-🔄 GitHub Repository Organization
-**Planned**
-⏳ Final Integration
-⏳ Final Demonstration
-⏳ Final Presentation
-⏳ Viva Preparation
-⏳ Final Submission
-15. Expected Outcome
 
 The completed Matrix Chain Multiplication Optimization Tool will accept the dimensions of a sequence of matrices from the user and efficiently determine the optimal multiplication order using Dynamic Programming.
 
